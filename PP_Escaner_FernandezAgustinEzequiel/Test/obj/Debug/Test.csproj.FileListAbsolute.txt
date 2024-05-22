@@ -1,0 +1,9 @@
+C:\Users\Agust\Desktop\PP_ESCANER\PP_Escaner_FernandezAgustinEzequiel\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Agust\Desktop\PP_ESCANER\PP_Escaner_FernandezAgustinEzequiel\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Agust\Desktop\PP_ESCANER\PP_Escaner_FernandezAgustinEzequiel\Test\bin\Debug\Test.dll
+C:\Users\Agust\Desktop\PP_ESCANER\PP_Escaner_FernandezAgustinEzequiel\Test\bin\Debug\Test.pdb
+C:\Users\Agust\Desktop\PP_ESCANER\PP_Escaner_FernandezAgustinEzequiel\Test\bin\Debug\Entidades.dll
+C:\Users\Agust\Desktop\PP_ESCANER\PP_Escaner_FernandezAgustinEzequiel\Test\bin\Debug\Entidades.pdb
+C:\Users\Agust\Desktop\PP_ESCANER\PP_Escaner_FernandezAgustinEzequiel\Test\obj\Debug\Test.csproj.Up2Date
+C:\Users\Agust\Desktop\PP_ESCANER\PP_Escaner_FernandezAgustinEzequiel\Test\obj\Debug\Test.dll
+C:\Users\Agust\Desktop\PP_ESCANER\PP_Escaner_FernandezAgustinEzequiel\Test\obj\Debug\Test.pdb

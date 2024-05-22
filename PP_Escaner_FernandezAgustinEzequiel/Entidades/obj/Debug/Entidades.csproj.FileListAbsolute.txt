@@ -1,0 +1,6 @@
+C:\Users\Agust\Desktop\PP_ESCANER\PP_Escaner_FernandezAgustinEzequiel\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Agust\Desktop\PP_ESCANER\PP_Escaner_FernandezAgustinEzequiel\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Agust\Desktop\PP_ESCANER\PP_Escaner_FernandezAgustinEzequiel\Entidades\bin\Debug\Entidades.dll
+C:\Users\Agust\Desktop\PP_ESCANER\PP_Escaner_FernandezAgustinEzequiel\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Agust\Desktop\PP_ESCANER\PP_Escaner_FernandezAgustinEzequiel\Entidades\obj\Debug\Entidades.dll
+C:\Users\Agust\Desktop\PP_ESCANER\PP_Escaner_FernandezAgustinEzequiel\Entidades\obj\Debug\Entidades.pdb

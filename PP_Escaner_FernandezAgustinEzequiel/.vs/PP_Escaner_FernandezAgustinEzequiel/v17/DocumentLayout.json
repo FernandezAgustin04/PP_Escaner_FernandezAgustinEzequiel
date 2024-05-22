@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Agust\\Desktop\\PP_ESCANER\\PP_Escaner_FernandezAgustinEzequiel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76E5107A-0197-4711-8AD8-0FCBAB482F5B}|Program.cs\\Program.cs.csproj|c:\\users\\agust\\desktop\\pp_escaner\\pp_escaner_fernandezagustinezequiel\\program.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E5107A-0197-4711-8AD8-0FCBAB482F5B}|Program.cs\\Program.cs.csproj|solutionrelative:program.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11AE13A-E652-475E-8F52-D2BDB07DF4D9}|Entidades\\Entidades.csproj|c:\\users\\agust\\desktop\\pp_escaner\\pp_escaner_fernandezagustinezequiel\\entidades\\mapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D11AE13A-E652-475E-8F52-D2BDB07DF4D9}|Entidades\\Entidades.csproj|solutionrelative:entidades\\mapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E5107A-0197-4711-8AD8-0FCBAB482F5B}|Program.cs\\Program.cs.csproj|c:\\users\\agust\\desktop\\pp_escaner\\pp_escaner_fernandezagustinezequiel\\program.cs\\program.cs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{76E5107A-0197-4711-8AD8-0FCBAB482F5B}|Program.cs\\Program.cs.csproj|solutionrelative:program.cs\\program.cs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD0E61E-EB1D-4D25-BBB0-116A9D1DF71D}|Test\\Test.csproj|C:\\Users\\Agust\\Desktop\\PP_ESCANER\\PP_Escaner_FernandezAgustinEzequiel\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD0E61E-EB1D-4D25-BBB0-116A9D1DF71D}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11AE13A-E652-475E-8F52-D2BDB07DF4D9}|Entidades\\Entidades.csproj|C:\\Users\\Agust\\Desktop\\PP_ESCANER\\PP_Escaner_FernandezAgustinEzequiel\\entidades\\escaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D11AE13A-E652-475E-8F52-D2BDB07DF4D9}|Entidades\\Entidades.csproj|solutionrelative:entidades\\escaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mapa.cs",
+              "DocumentMoniker": "C:\\Users\\Agust\\Desktop\\PP_ESCANER\\PP_Escaner_FernandezAgustinEzequiel\\Entidades\\Mapa.cs",
+              "RelativeDocumentMoniker": "Entidades\\Mapa.cs",
+              "ToolTip": "C:\\Users\\Agust\\Desktop\\PP_ESCANER\\PP_Escaner_FernandezAgustinEzequiel\\Entidades\\Mapa.cs",
+              "RelativeToolTip": "Entidades\\Mapa.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:08:58.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs.csproj",
+              "DocumentMoniker": "C:\\Users\\Agust\\Desktop\\PP_ESCANER\\PP_Escaner_FernandezAgustinEzequiel\\Program.cs\\Program.cs.csproj",
+              "RelativeDocumentMoniker": "Program.cs\\Program.cs.csproj",
+              "ToolTip": "C:\\Users\\Agust\\Desktop\\PP_ESCANER\\PP_Escaner_FernandezAgustinEzequiel\\Program.cs\\Program.cs.csproj",
+              "RelativeToolTip": "Program.cs\\Program.cs.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-19T17:40:52.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Agust\\Desktop\\PP_ESCANER\\PP_Escaner_FernandezAgustinEzequiel\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\Users\\Agust\\Desktop\\PP_ESCANER\\PP_Escaner_FernandezAgustinEzequiel\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:40:48.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Agust\\Desktop\\PP_ESCANER\\PP_Escaner_FernandezAgustinEzequiel\\Program.cs\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs\\Program.cs",
+              "ToolTip": "C:\\Users\\Agust\\Desktop\\PP_ESCANER\\PP_Escaner_FernandezAgustinEzequiel\\Program.cs\\Program.cs",
+              "RelativeToolTip": "Program.cs\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAUwHcAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:40:42.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Escaner.cs",
+              "DocumentMoniker": "C:\\Users\\Agust\\Desktop\\PP_ESCANER\\PP_Escaner_FernandezAgustinEzequiel\\Entidades\\Escaner.cs",
+              "RelativeDocumentMoniker": "Entidades\\Escaner.cs",
+              "ToolTip": "C:\\Users\\Agust\\Desktop\\PP_ESCANER\\PP_Escaner_FernandezAgustinEzequiel\\Entidades\\Escaner.cs",
+              "RelativeToolTip": "Entidades\\Escaner.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwCIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:39:56.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
